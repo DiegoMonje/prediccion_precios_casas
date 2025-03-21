@@ -16,11 +16,13 @@ Este proyecto utiliza Machine Learning para predecir precios de viviendas en fun
 - Matplotlib  
 
 ## 📊 Resultados  
-- Modelo XGBoost con **85% de precisión**  
-- Gráficos de tendencias de precios  
+Random Forest - MAE: 16260.68
+Random Forest - RMSE: 27174.40
+Random Forest - R²: 0.91
+XGBoost - MAE: 15598.94
+XGBoost - RMSE: 25567.68
+XGBoost - R²: 0.92 
 
-## 📎 Enlace al notebook  
-[Abrir en Google Colab](https://colab.research.google.com/)  
 
 ---
 🚀 **Si te gustó el proyecto, dale ⭐ en GitHub!**  
